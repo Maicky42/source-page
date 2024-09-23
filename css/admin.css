@@ -1,0 +1,11 @@
+.rest {
+    height: 60vh;
+}
+
+@media screen and (max-width: 900px) {
+
+    table #terminal{
+        display: none;
+    }
+
+}
